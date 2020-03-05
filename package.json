@@ -1,0 +1,29 @@
+{
+  "name": "anydesk-api",
+  "version": "0.0.1",
+  "description": "Implementation of the AnyDesk API",
+  "main": "lib/anydesk-api.js",
+  "scripts": {
+    "test": "jest",
+    "prepublishOnly": "tsc"
+  },
+  "keywords": [
+    "anydesk",
+    "api"
+  ],
+  "author": "Adam Laycock <adam@arcath.net>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^25.1.3",
+    "@types/node": "^13.7.6",
+    "@types/node-fetch": "^2.5.5",
+    "@types/utf8": "^2.1.6",
+    "jest": "^25.1.0",
+    "ts-jest": "^25.2.1",
+    "typescript": "^3.8.2"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "utf8": "^3.0.0"
+  }
+}
