@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "Implementation of the AnyDesk API",
   "main": "lib/anydesk-api.js",
+  "repository": {
+    "url": "https://github.com/Ed-ITSolutions/anydesk-api"
+  },
   "scripts": {
     "test": "jest",
     "prepublishOnly": "tsc"
