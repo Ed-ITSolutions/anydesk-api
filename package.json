@@ -1,6 +1,6 @@
 {
   "name": "anydesk-api",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Implementation of the AnyDesk API",
   "main": "lib/anydesk-api.js",
   "repository": {
